@@ -10,7 +10,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # Path to your CSV file and ChromeDriver
 csv_file = "Microsoft.csv"
-chrome_driver_path = 'C:\\Users\\Parth bansal\\Downloads\\chromedriver-win64 (1)\\chromedriver-win64\\chromedriver.exe'
+chrome_driver_path = 'chromedriver.exe'
 
 def setup_driver():
     options = Options()
