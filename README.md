@@ -39,7 +39,7 @@ This tool automates the process of checking if specific LeetCode problems have b
 2. **Run the Script**:
     - Run the script in the terminal:
     ```bash
-    python leetcode_checker.py
+    python main2.py
     ```
 
 3. **Manual Login**:
